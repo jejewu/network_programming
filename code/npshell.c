@@ -5,15 +5,12 @@
 # include <stdlib.h>
 # include <stdbool.h>
 
-typedef struct command {
-    char *program;
-    char *object;
-    bool last;
-} command;
 
 int count_executable();
 int fill_content(char **commands);
 void remove_spaces(char* s);
+int process_line(char *input, char **args);
+char * remove_first_space(char *input);
 
 // use strcat to concate two string
 // strcat(str1, str2); the resultant string is stored in str1.
@@ -36,38 +33,34 @@ int main(){
     //     printf("%s\n", commands[i]);
     // }
 
-    
-    //
     while(1){
         printf("$ ");
         // input commands
         char input[15001];
         fgets(input, 15001, stdin);
-
-        //divide commands
-        char *pointer = input;
-        command *next_command;
         
-        while(1){
-            next_command = extract_next(pointer);
-            
-        }
-        
+        // only enter
+        if(input[0] == 10) continue;
 
-        // remove space in commands
-        // remove_spaces(input);
-        // printf("%s",input);
+        //process line
+        char *std;
+        char **args;
+        args = malloc(sizeof(std) * 7000);
+        int divide_alloc;
+        divide_alloc = process_line(input, args);
+        //to debug process_line()
+        // int a;
+        // for(a = 0; a < b; a++ ){
+        // printf("%s",args[a]);
+        // printf("%ld\n",strlen(args[a]));
+        // }
     } 
     // pointer array
     //char *input_command[]={"ls","./test.html"};
-    //printf("$ ");
     //scanf("%s", *input_command);
     // printf("number %ld\n", strlen(input_command));
-    //printf
     // char *a[]={"cat","test.html",0};
     // execv("bin/cat",a);
-    
-    
     
     // free dynamic allocate memory
     // only for main process
@@ -76,12 +69,66 @@ int main(){
     for(i = 0; i < count; i++){
         free(commands[i]);
     }
+    // divide command
+    for(i = 0; i < divide_alloc; i++){
+        free(args[i]);
+    }
     return 0; 
 }
 
-command* extract_next(char *input){
-    command *a;
-    return a; 
+int process_line(char *input, char **args){
+    
+    
+    // input = remove_first_space(input);
+    // printf("%s", input);
+    char divide = ' ';
+    char *re_hand, *re_last=NULL;
+    // first command
+    re_hand = remove_first_space(input);
+    re_last = strchr(re_hand, divide);
+    if(re_last == NULL){
+        // printf("NULL\n");
+        re_last = strchr(re_hand, '\n');
+    }
+    //copy
+    int i = 0;
+    args[i] = malloc( sizeof(char) * (re_last - re_hand + 1) );
+    args[i][re_last - re_hand] = '\0';
+    strncpy(args[i], re_hand, re_last - re_hand);
+    i++;
+    // printf("haha\n");
+
+    for(;;i++){
+        re_hand = remove_first_space(re_last);
+        if(re_hand[0] == '\n') return i;
+        // find next space
+        re_last = strchr(re_hand, divide);
+        // lasr noe remain
+        if(re_last == NULL){
+            break;
+        }
+        args[i] = malloc( sizeof(char) * (re_last - re_hand + 1) );
+        args[i][re_last - re_hand] = '\0';
+        strncpy(args[i], re_hand, re_last - re_hand);
+    }
+    args[i] = malloc( sizeof(char) * ( strlen(re_hand)) );
+    args[i][strlen(re_hand) - 1] = '\0';
+    strncpy(args[i], re_hand, strlen(re_hand) -1);
+    // printf("%s ", args[i]);
+    // printf("%d",i);
+    // printf("fuck");
+    return i+1;
+
+}
+
+char * remove_first_space(char *input){
+    while(1){
+        if(input[0] == ' ') input++;
+        else{
+            break;
+        }
+    }
+    return input;
 }
 
 int count_executable(){
