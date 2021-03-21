@@ -1,13 +1,6547 @@
-% bin:.
+% Unknown command: [ printenv ].
 % bin
 test.html
-% % .
-% Unknown command: [ls].
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% % Unknown command: [ printenv ].
+bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% % Unknown command: [ date ].
+Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% % Unknown command: [ setenv ].
+Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
 % % cat
 ls
 noop
 number
 removetag
 removetag0
-% Unknown command: [date].
-% 
+Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% % bin
+test.html
+Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% % Unknown command: [ setenv ].
+cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% % Unknown command: [ PATH ].
+bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% % bin
+test.html
+Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% % Unknown command: [ exit ].
+Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% Unknown command: [ printenv ].
+% bin
+test.html
+% Unknown command: [ setenv ].
+% cat
+ls
+noop
+number
+removetag
+removetag0
+% Unknown command: [ date ].
+% Unknown command: [ exit ].
+% Unknown command: [ PATH ].
+% bin
+test.html

@@ -19,11 +19,14 @@ int main(){
     // } while (*a++ = *d++);
     // printf("%s", a);
     // printf("%s", s);
-    char c[10];
-    fgets(c, 10,stdin);
-    printf("%ld\n",strlen(c));
-    char b[] = "5656\n";
-    printf("%ld\n", strlen(b+1));
-    char *a[] = {"4545","5656"};
-    printf("%ld\n", sizeof("45df45"));
+    // char c[10];
+    // fgets(c, 10,stdin);
+    // printf("%ld\n",strlen(c));
+    // char b[] = "5656\n";
+    // printf("%ld\n", strlen(b+1));
+    // char *a[] = {"4545","5656"};
+    // printf("%ld\n", sizeof("45df45"));
+    char a[5] = "454\0";
+    char b[4] = "454\0";
+    printf("%d\n",strcmp(a, b));
 }
