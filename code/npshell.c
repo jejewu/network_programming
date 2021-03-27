@@ -14,6 +14,8 @@ int parent_pipe_in(int pipe_number);
 int child_pipe_out(int pipe_number);
 int check_redirect(char **args, int head, int tail);
 int do_redirect(char **args, int head, int tail, int location, bool parent_pipe, bool child_pipe, int pipe_number);
+int fun_printenv(char **args, int head, int tail);
+int fun_setenv(char **args, int head, int tail);
 // no use
 int count_executable();
 int fill_content(char **commands);
@@ -34,6 +36,7 @@ int main(){
     int divide_alloc;
 
     while(1){
+        // initialize the status
         pipe_condition[0] = 0;
         pipe_condition[1] = 0;
         pipe_condition[2] = 0;
@@ -81,33 +84,52 @@ int main(){
                 pipe_number++;
                 parent_pipe = 1;
                 head = tail + 1;
+                continue;
             }
+
             // pipeN
-            // if(args[tail][0] == '|' && strlen(args[tail]) > 1){
-            //     pipe_condition[2]=1;
-            //     last_pipe = tail;
-            //     if( pipe( pipe_pool + 2 * pipe_number) < 0) printf("error");
+            // check length of |N
+            if(args[tail][0] == '|' && strlen(args[tail]) > 1){
+                pipe_condition[2]=1;
+                last_pipe = tail;
+                if( pipe( pipe_pool + 2 * pipe_number) < 0) printf("error");
                 
-            //     select_fun(args, head, tail - 1, parent_pipe, child_pipe, pipe_number);
+                select_fun(args, head, tail - 1, parent_pipe, child_pipe, pipe_number);
                 
-            //     parent_pipe = 1;
-            //     head = tail + 1;
-            // }
+                parent_pipe = 1;
+                head = tail + 1;
+            }
         }
-        //last one or no if pipeN
-            // redirect
-        if(pipe_condition[2] == 0){
+        // check !N but not do
+        for(int i = last_pipe; i < divide_alloc; i++){
+            if(args[i][0] == '!'){
+                pipe_condition[3] = 1;
+                // modify last one location
+                divide_alloc = i;
+                break;
+            }
+        }
+
+        // (last one or only one command) and no pipeN
+        if(pipe_condition[2] == 0 && pipe_condition[3] == 0){
             int location = check_redirect(args, last_pipe, divide_alloc);
-            if( location != -1){ //redirect
+            if( location != -1){ //redirect and no pipe after
                 do_redirect ( args, last_pipe, divide_alloc, location, parent_pipe, child_pipe, pipe_number);
             }
             else{ // no redirect
-                if(arg[last_pipe] == "printenv")
-                    printenv(arg);
-                else if(arg[last_pipe] == "setenv")
-                    setenv(arg);
-                else if(arg[last_pipe] == "exit")
+                if( !strcmp(args[last_pipe], "printenv") ){
+                    printf("printenv\n");
+                    fun_printenv(args, last_pipe, divide_alloc);
+                }
+                else if( !strcmp(args[last_pipe], "setenv") ){
+                    printf("setenv\n");
+                    fun_setenv(args, last_pipe, divide_alloc);
+                    }
+                
+                else if( !strcmp(args[last_pipe], "exit") ){
                     return 0;
+                    }
+                
                 else{
                     int tail = divide_alloc - 1; //before |
                     child_pipe = 0;
@@ -116,6 +138,10 @@ int main(){
                 }
             }
         }
+
+        
+
+
     } 
     
     // free dynamic allocate memory
@@ -125,6 +151,16 @@ int main(){
         free(args[i]);
     }
     return 0; 
+}
+
+int fun_printenv(char **args, int head, int tail){
+
+    printf("PATH %s\n",getenv(args[head + 1]));
+    return 0;
+}
+
+int fun_setenv(char **args, int head, int tail){
+    return 0;
 }
 
 // fix head is first and tail is last (no include | )
