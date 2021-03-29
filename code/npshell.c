@@ -4,7 +4,7 @@
 # include <dirent.h>
 # include <stdlib.h>
 # include <stdbool.h>
-#include <sys/wait.h>
+# include <sys/wait.h>
 
 int process_line(char *input, char **args);
 char * remove_first_space(char *input);
@@ -55,7 +55,9 @@ int main(){
     int divide_alloc;
     init(); //set env PATH to bin:.
     int pipe_number = 0;
+    int k = 0;
     while(1){
+        k++;
         // initialize the status
         pipe_condition[0] = 0;
         // pipe_condition[1] = 0;
@@ -65,7 +67,11 @@ int main(){
         fflush(stdout);
         // input commands
         char input[15001];
+        // printf("%ld\n",strlen(input));
         fgets(input, 15001, stdin);
+        // input[strlen(input) -1]='\0';
+        // getline(input,15001 ,stdin);
+        // gets(input);
         
         // only enter
         if(input[0] == 10) continue;
@@ -74,8 +80,10 @@ int main(){
         char *std;
         
         args = malloc(sizeof(std) * 7000);
-        
+        // printf("%s %ld %d\n",input,strlen(input),k);
+        // printf("process\n");
         divide_alloc = process_line(input, args);
+        // printf("process done\n");
         // to debug process_line()
         // printf("%d\n",divide_alloc);
         // int a;
@@ -119,6 +127,7 @@ int main(){
             // pipeN
             // check length of |N
             if(args[tail][0] == '|' && strlen(args[tail]) > 1){
+                
                 // printf("in pipeN\n");
                 pipe_condition[2] = 1;
                 last_pipe = tail;
@@ -126,8 +135,9 @@ int main(){
                 int N = atoi( args[tail] + 1 );
                 // printf("%s %d\n",args[tail], N);
                 // compute whether same expire date pipeN
+                
                 child_pipe = deal_pipen(N);
-
+                
                 // if( pipe( pipe_pool + 2 * pipe_number) < 0) printf("error");
                 // child_pipe = 2 * pipe_number + 1;
 
@@ -174,7 +184,7 @@ int main(){
                     }
                 
                 else if( !strcmp(args[last_pipe], "exit") ){
-                    printf("exit\n");
+                    // printf("exit\n");
                     return 0;
                     }
                 
@@ -243,16 +253,19 @@ int deal_pipen(int N){
 int routine_pipen(){
     for(int i = 0; i < pipeN_record_len; i++){
         pipeN_record[i].count -= 1;
-        printf("%d %d\n",i,pipeN_record_len);
+        // printf("%d",pipeN_record[i].count);
+        // printf("%d %d\n",i,pipeN_record_len);
         if(pipeN_record[i].count == -1){
             //moving pipN_record
             for(int j = i; j < pipeN_record_len - 1; j++){
                 pipeN_record[j] = pipeN_record[j+1];
             }
             pipeN_record_len --;
+            i--;
             continue;
         }
         if(pipeN_record[i].count == 0){
+            // printf("expire");
             expire_pipeN = 1;
             pipeN_next = pipeN_record[i]; //remain expire pipeN to next
             // //moving pipN_record
@@ -265,6 +278,7 @@ int routine_pipen(){
         }
         expire_pipeN = 0;
     }
+    
     return 0;
 }
 
@@ -444,6 +458,7 @@ int parent_pipe_in(int pipe_number){
     
     //pipeN
     if(expire_pipeN){
+        // printf("ex ");
         close(pipeN_pool[last_pipe_out]);
         dup2(pipeN_pool[pipe_in], 0);
         close(pipeN_pool[pipe_in]);
@@ -469,8 +484,10 @@ int main_pipe_process(int parent_pipe, int child_pipe, pid_t pid, int pipe_numbe
     
     if(expire_pipeN != 1 && pipe_condition[3] == 0 && parent_pipe != -1){
         // close parent pipe
-        close(pipe_pool[2 * (pipe_number - 1)]);
-        close(pipe_pool[2 * (pipe_number-1) +1]);
+        // close(pipe_pool[2 * (pipe_number - 1)]);
+        // close(pipe_pool[2 * (pipe_number-1) +1]);
+        close(pipe_pool[parent_pipe]);
+        close(pipe_pool[parent_pipe + 1]);
     }
     if(expire_pipeN == 1){
         // printf("close pipeN %d\n",parent_pipe);
