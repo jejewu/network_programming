@@ -8,14 +8,17 @@
 
 int process_line(char *input, char **args);
 char * remove_first_space(char *input);
-int select_fun(char **args, int head, int tail, bool parent_pipe, bool child_pipe, int pipe_number);
-int main_pipe_process(bool parent_pipe, bool child_pipe, pid_t pid, int pipe_number);
+int select_fun(char **args, int head, int tail, int parent_pipe, int child_pipe, int pipe_number);
+int main_pipe_process(int parent_pipe, int child_pipe, pid_t pid, int pipe_number);
 int parent_pipe_in(int pipe_number);
 int child_pipe_out(int pipe_number);
 int check_redirect(char **args, int head, int tail);
-int do_redirect(char **args, int head, int tail, int location, bool parent_pipe, bool child_pipe, int pipe_number);
+int do_redirect(char **args, int head, int tail, int location, int parent_pipe, int child_pipe, int pipe_number);
 int fun_printenv(char **args, int head, int tail);
-int fun_setenv(char **args, int head, int tail);
+int fun_setenv(char **args, int head, int tail, int number);
+int init();
+int deal_pipen();
+int routine_pipen();
 // no use
 int count_executable();
 int fill_content(char **commands);
@@ -23,8 +26,19 @@ void remove_spaces(char* s);
 
 // use strcat to concate two string
 // strcat(str1, str2); the resultant string is stored in str1.
-char path[] = "./work_dir/bin/";
+// char path[]="";
+// char path[] = "./work_dir/bin/";
 // total program
+
+typedef struct{
+    int pipe_write;
+    int pipe_read;
+    int count;
+}pipeN;
+pipeN pipeN_pool[1000];
+int next_pipe =-1;
+int used_pipe = 0;
+
 int count;
 int pipe_pool[1000];
 pid_t pid_queue[400];
@@ -34,14 +48,16 @@ bool pipe_condition[4]; //{0,0,0,0} no-pipe, pipe, number-pip, !-pipe
 int main(){
     char **args;
     int divide_alloc;
-
+    init(); //set env PATH to bin:.
+    int pipe_number = 0;
     while(1){
         // initialize the status
         pipe_condition[0] = 0;
-        pipe_condition[1] = 0;
+        // pipe_condition[1] = 0;
         pipe_condition[2] = 0;
         pipe_condition[3] = 0;
         printf("%c ",'%');
+        fflush(stdout);
         // input commands
         char input[15001];
         fgets(input, 15001, stdin);
@@ -64,8 +80,8 @@ int main(){
         //     printf("%ld\n",strlen(args[a]));
             
         // }
-        int pipe_number = 0;
-        bool parent_pipe = 0, child_pipe = 0;
+        // int pipe_number = 0;
+        int parent_pipe = -1, child_pipe = -1;
         int pipe_in, pipe_out;
         int head, tail;
         int last_pipe = 0; //for last command
@@ -74,15 +90,19 @@ int main(){
         for(head = 0, tail = 0; tail < divide_alloc; tail++){
             // normal pipe
             if(args[tail][0] == '|' && strlen(args[tail]) == 1){
-                pipe_condition[1]=1;
+                // printf("pipe\n");
+                pipe_condition[1] = 1;
                 last_pipe = tail + 1;
                 // printf("\nin\n");
+                
                 if( pipe( pipe_pool + 2 * pipe_number) < 0) printf("error");
                 
-                child_pipe = 1;
+                child_pipe = 2 * pipe_number + 1;
                 select_fun(args, head, tail - 1, parent_pipe, child_pipe, pipe_number);
-                pipe_number++;
-                parent_pipe = 1;
+                //next input
+                parent_pipe = 2 * pipe_number;
+                // printf("%d %d\n", child_pipe, parent_pipe);
+                pipe_number = (pipe_number+1)%1000;
                 head = tail + 1;
                 continue;
             }
@@ -93,10 +113,9 @@ int main(){
                 pipe_condition[2]=1;
                 last_pipe = tail;
                 if( pipe( pipe_pool + 2 * pipe_number) < 0) printf("error");
-                
+                child_pipe = 2 * pipe_number + 1;
                 select_fun(args, head, tail - 1, parent_pipe, child_pipe, pipe_number);
-                
-                parent_pipe = 1;
+                deal_pipen();
                 head = tail + 1;
             }
         }
@@ -113,17 +132,19 @@ int main(){
         // (last one or only one command) and no pipeN
         if(pipe_condition[2] == 0 && pipe_condition[3] == 0){
             int location = check_redirect(args, last_pipe, divide_alloc);
+            // printf("%d \n",location);
             if( location != -1){ //redirect and no pipe after
-                do_redirect ( args, last_pipe, divide_alloc, location, parent_pipe, child_pipe, pipe_number);
+                // because redirect no need child pipe
+                do_redirect ( args, last_pipe, divide_alloc, location, parent_pipe, 1, pipe_number);
             }
             else{ // no redirect
                 if( !strcmp(args[last_pipe], "printenv") ){
-                    printf("printenv\n");
+                    // printf("printenv\n");
                     fun_printenv(args, last_pipe, divide_alloc);
                 }
                 else if( !strcmp(args[last_pipe], "setenv") ){
-                    printf("setenv\n");
-                    fun_setenv(args, last_pipe, divide_alloc);
+                    // printf("setenv\n");
+                    fun_setenv(args, last_pipe, divide_alloc, 1);
                     }
                 
                 else if( !strcmp(args[last_pipe], "exit") ){
@@ -132,13 +153,16 @@ int main(){
                 
                 else{
                     int tail = divide_alloc - 1; //before |
-                    child_pipe = 0;
+                    child_pipe = -1;
                     pipe_out = -1; //no pipN so no pip out for last command
+                    // printf("parent %d\n", parent_pipe);
+                    // printf("last_pipe %d tail %d\n",last_pipe, tail);
                     select_fun(args, last_pipe, tail, parent_pipe, child_pipe, pipe_number);
                 }
             }
         }
 
+        routine_pipen();
         
 
 
@@ -153,18 +177,38 @@ int main(){
     return 0; 
 }
 
-int fun_printenv(char **args, int head, int tail){
-
-    printf("PATH %s\n",getenv(args[head + 1]));
+int deal_pipen(){
+    for(int i = 0; i <= used_pipe; i++){
+        pipeN_pool[i].count -= 1;
+        if(pipeN_pool[i].count == 0){
+            int q = 5;
+        }
+    }
     return 0;
 }
 
-int fun_setenv(char **args, int head, int tail){
+int init(){
+    char *args[] = {"setenv", "PATH", "bin:."};
+    fun_setenv(args, 0, 3, 1);
+    return 0;
+}
+
+int fun_printenv(char **args, int head, int tail){
+
+    printf("%s\n",getenv(args[head + 1]));
+    return 0;
+}
+
+int fun_setenv(char **args, int head, int tail, int number){
+    // for(int i = head; i < tail; i++){
+    //     printf("%s\n", args[i]);
+    // }
+    setenv(args[head+1], args[head+2], number);
     return 0;
 }
 
 // fix head is first and tail is last (no include | )
-int select_fun(char **args, int head, int tail, bool parent_pipe, bool child_pipe, int pipe_number){
+int select_fun(char **args, int head, int tail, int parent_pipe, int child_pipe, int pipe_number){
     //head -> program name tail -> |
     int len = tail - head + 2;
     char *arg[len];
@@ -176,7 +220,7 @@ int select_fun(char **args, int head, int tail, bool parent_pipe, bool child_pip
         if(i == 0){
             // ./bin/(6) \0(1)
             arg[i] = malloc( sizeof(char) * ( strlen(args[ head + i ]) + 1 + 15) );
-            strcpy(arg[i], "./work_dir/bin/");
+            // strcpy(arg[i], "./work_dir/bin/");
             // printf("\n%ld\n",strlen(args[head + i]));
             strcat(arg[i], args[head + i]);
             continue;
@@ -200,11 +244,11 @@ int select_fun(char **args, int head, int tail, bool parent_pipe, bool child_pip
     if(pid == 0){
         //stdin 0, stdout 1, stderr 2
         // printf("%s\n", arg[0]);
-        if(parent_pipe){
-            parent_pipe_in(pipe_number);
+        if(parent_pipe != -1){
+            parent_pipe_in(parent_pipe);
         }
-        if(child_pipe){
-            child_pipe_out(pipe_number);
+        if(child_pipe != -1){
+            child_pipe_out(child_pipe);
         }
         
         int err = execvp(arg[0], arg);
@@ -213,6 +257,7 @@ int select_fun(char **args, int head, int tail, bool parent_pipe, bool child_pip
         exit(0);
     }
     else{
+        // printf("%s ",args[head]);
         main_pipe_process(parent_pipe, child_pipe, pid, pipe_number);
     }
     
@@ -227,7 +272,7 @@ int check_redirect(char **args, int head, int tail){
     return -1;
 }
 
-int do_redirect(char **args, int head, int tail, int location, bool parent_pipe, bool child_pipe, int pipe_number){
+int do_redirect(char **args, int head, int tail, int location, int parent_pipe, int child_pipe, int pipe_number){
 
     int len = location - head + 1; //exclude > include \0
     char *arg[len];
@@ -239,7 +284,7 @@ int do_redirect(char **args, int head, int tail, int location, bool parent_pipe,
         if(i == 0){
             // ./bin/(6) \0(1)
             arg[i] = malloc( sizeof(char) * ( strlen(args[ head + i ]) + 1 + 15) );
-            strcpy(arg[i], "./work_dir/bin/");
+            // strcpy(arg[i], "./work_dir/bin/");
             // printf("\n%ld\n",strlen(args[head + i]));
             strcat(arg[i], args[head + i]);
             continue;
@@ -261,10 +306,10 @@ int do_redirect(char **args, int head, int tail, int location, bool parent_pipe,
     if(pid == 0){
         //stdin 0, stdout 1, stderr 2
         // printf("%s\n", arg[0]);
-        if(parent_pipe){
-            parent_pipe_in(pipe_number);
+        if(parent_pipe != -1){
+            parent_pipe_in(parent_pipe);
         }
-        if(child_pipe){
+        if(child_pipe != -1){
             dup2( fileno(pfile), 1);
         }
         
@@ -274,15 +319,16 @@ int do_redirect(char **args, int head, int tail, int location, bool parent_pipe,
         exit(0);
     }
     else{
+        // printf("%s ",args[head]);
         main_pipe_process(parent_pipe, child_pipe, pid, pipe_number);
     }
 
 }
 
 int child_pipe_out(int pipe_number){
-    // printf("in child_pipe\n");
-    int pipe_out = pipe_number * 2 + 1;
-    int pipe_in = pipe_number * 2;
+    // printf("in child_pipe %d\n",pipe_number);
+    int pipe_out = pipe_number;
+    int pipe_in = pipe_number - 1;
     // printf("%d\n", pipe_out);
     // close input
     close(pipe_pool[pipe_in]);
@@ -291,9 +337,9 @@ int child_pipe_out(int pipe_number){
 }
 
 int parent_pipe_in(int pipe_number){
-    // printf("in parent_pipe\n");
-    int pipe_in = (pipe_number-1) * 2;
-    int last_pipe_out = (pipe_number-1) * 2 + 1;
+    // printf("in parent_pipe %d\n",pipe_number);
+    int pipe_in = pipe_number;
+    int last_pipe_out = pipe_number + 1;
 
     close(pipe_pool[last_pipe_out]);
     // printf("%s %d \n", arg[0], pipe_pool[(pipe_number-1) * 2 + 1]);
@@ -303,23 +349,28 @@ int parent_pipe_in(int pipe_number){
     return 0;
 }
 
-int main_pipe_process(bool parent_pipe, bool child_pipe, pid_t pid, int pipe_number){
+int main_pipe_process(int parent_pipe, int child_pipe, pid_t pid, int pipe_number){
+    // printf("%d %d\n",parent_pipe, child_pipe);
+    // fflush(stdout);
     //record pid
     pid_queue[pidno] = pid;
     pidno = (pidno + 1) % 400;
     // last command or not 1->last 0->not last
-    bool last = (parent_pipe == 0 && child_pipe == 0) || (parent_pipe == 1 && child_pipe == 0);
+    bool last = child_pipe == -1;
     
+    if(pipe_condition[2] == 0 && pipe_condition[3] == 0 && parent_pipe != -1){
+        // close parent pipe
+        close(pipe_pool[2 * (pipe_number - 1)]);
+        close(pipe_pool[2 * (pipe_number-1) +1]);
+    }
+
     if(last){
-        // printf("%d\n",pipe_number);
-        if(pipe_condition[1]){
-            for(int i = 0; i <= pipe_number; i++){
-                close(pipe_pool[i]);
-            }
-        }
         for(int i = 0; i < pidno; i++){
             int status;
+            // printf("%d",pid_queue[i]);
+            // fflush(stdout);
             waitpid(pid_queue[i], &status, 0);
+                
         }
     }
 
