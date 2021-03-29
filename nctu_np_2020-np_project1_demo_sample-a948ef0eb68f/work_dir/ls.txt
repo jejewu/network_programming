@@ -1,3 +1,0 @@
-   1 bin
-   2 ls.txt
-   3 test.html

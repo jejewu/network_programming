@@ -1,1294 +1,1330 @@
-% errorerrorcat: -: Bad file descriptor
+% cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -cat: : Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+-: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorbin
-test.html
-errorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorerrorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: cat: closing standard input-: Bad file descriptor
+: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
-errorcat: -: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
+cat: closing standard input: Bad file descriptor
+cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
 cat: -: Bad file descriptor
 cat: closing standard input: Bad file descriptor
