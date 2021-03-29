@@ -17,7 +17,7 @@ int do_redirect(char **args, int head, int tail, int location, int parent_pipe, 
 int fun_printenv(char **args, int head, int tail);
 int fun_setenv(char **args, int head, int tail, int number);
 int init();
-int deal_pipen();
+int deal_pipen(int N);
 int routine_pipen();
 // no use
 int count_executable();
@@ -34,10 +34,15 @@ typedef struct{
     int pipe_write;
     int pipe_read;
     int count;
+    int pipth; //order of pipeN_pool
 }pipeN;
-pipeN pipeN_pool[1000];
-int next_pipe =-1;
-int used_pipe = 0;
+pipeN pipeN_record[1000];
+int pipeN_record_len = 0;
+
+int pipeN_pool[1000];
+pipeN pipeN_next; //expire pipeN
+bool expire_pipeN = 0;
+// int next_can_pipe = 0; //next pipeN can used
 
 int count;
 int pipe_pool[1000];
@@ -112,10 +117,16 @@ int main(){
             if(args[tail][0] == '|' && strlen(args[tail]) > 1){
                 pipe_condition[2]=1;
                 last_pipe = tail;
-                if( pipe( pipe_pool + 2 * pipe_number) < 0) printf("error");
-                child_pipe = 2 * pipe_number + 1;
+                // string to int
+                int N = atoi( args[tail] + 1 );
+                // printf("%s %d\n",args[tail], N);
+                // compute whether same expire date pipeN
+                child_pipe = deal_pipen(N);
+
+                // if( pipe( pipe_pool + 2 * pipe_number) < 0) printf("error");
+                // child_pipe = 2 * pipe_number + 1;
+
                 select_fun(args, head, tail - 1, parent_pipe, child_pipe, pipe_number);
-                deal_pipen();
                 head = tail + 1;
             }
         }
@@ -161,6 +172,11 @@ int main(){
                 }
             }
         }
+        // deal !N
+        if(pipe_condition[3] == 1){
+            // do something
+
+        }
 
         routine_pipen();
         
@@ -177,12 +193,53 @@ int main(){
     return 0; 
 }
 
-int deal_pipen(){
-    for(int i = 0; i <= used_pipe; i++){
-        pipeN_pool[i].count -= 1;
-        if(pipeN_pool[i].count == 0){
-            int q = 5;
+int deal_pipen(int N){
+    int same_pipeN = -1;
+    // find same expire pipeN
+    for(int i = 0; i < pipeN_record_len; i++){
+        if(pipeN_record[i].count == N){
+            same_pipeN = i;
+            break;
         }
+    }
+    //no same create new one
+    if(same_pipeN == -1){
+        //find can use pipeN in pipeN_pool
+        for(int i = 0, j; i < 1000; i+=2){
+
+            for(j = 0; j < pipeN_record_len; j++){
+                if(i == pipeN_record[j].pipth){
+                    break;
+                }
+            }
+            //find empty pipN can use
+            if(j == pipeN_record_len){
+                if( pipe(pipeN_pool + i) < 0)printf("error\n");
+                pipeN_record[pipeN_record_len].read = pipeN_pool[i];
+                pipeN_record[pipeN_record_len].write = pipeN_pool[i+1];
+                same_pipeN = pipeN_record_len;
+                pipeN_record_len ++;
+                break;
+            }
+        }
+    }
+    // return child pipe
+    return pipeN_record[same_pipeN].pipe_write;
+}
+
+int routine_pipen(){
+    for(int i = 0; i < pipeN_record_len; i++){
+        pipeN_record[i].count -= 1;
+        if(pipeN_record[i].count == 0){
+            expire_pipeN = 1;
+            pipeN_next = pipeN_record[i]; //remain expire pipeN to next
+            //moving pipN_record
+            for(int j = i; j < pipeN_record_len - 1; j++){
+                pipeN_record[j] = pipeN_record[j+1];
+            }
+            break;
+        }
+        expire_pipeN = 0;
     }
     return 0;
 }
