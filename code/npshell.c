@@ -49,6 +49,7 @@ int pipe_pool[1000];
 pid_t pid_queue[400];
 int pidno = 0;
 bool pipe_condition[4]; //{0,0,0,0} no-pipe, pipe, number-pip, !-pipe
+bool redirect = 0;
 
 int main(){
     char **args;
@@ -63,6 +64,7 @@ int main(){
         // pipe_condition[1] = 0;
         pipe_condition[2] = 0;
         pipe_condition[3] = 0;
+        redirect = 0;
         printf("%c ",'%');
         fflush(stdout);
         // input commands
@@ -171,6 +173,7 @@ int main(){
             // printf("%d \n",location);
             if( location != -1){ //redirect and no pipe after
                 // because redirect no need child pipe
+                redirect = 1;
                 do_redirect ( args, last_pipe, divide_alloc, location, parent_pipe, 1, pipe_number);
             }
             else{ // no redirect
@@ -404,15 +407,18 @@ int do_redirect(char **args, int head, int tail, int location, int parent_pipe, 
     }
 
     if(pid == 0){
+
         FILE* pfile;
         pfile = fopen(args[location + 1], "w");
+        if(pfile == NULL)printf("error\n");
         //stdin 0, stdout 1, stderr 2
         // printf("%s\n", arg[0]);
         if(parent_pipe != -1){
             parent_pipe_in(parent_pipe);
         }
         if(child_pipe != -1){
-            dup2( fileno(pfile), 1);
+            if( dup2( fileno(pfile), 1) == -1) printf("error");
+            fclose(pfile);
         }
         
         int err = execvp(arg[0], arg);
@@ -480,7 +486,7 @@ int main_pipe_process(int parent_pipe, int child_pipe, pid_t pid, int pipe_numbe
     pid_queue[pidno] = pid;
     pidno = (pidno + 1) % 400;
     // last command or not 1->last 0->not last
-    bool last = child_pipe == -1;
+    bool last = (child_pipe == -1 || redirect);
     
     if(expire_pipeN != 1 && pipe_condition[3] == 0 && parent_pipe != -1){
         // close parent pipe
